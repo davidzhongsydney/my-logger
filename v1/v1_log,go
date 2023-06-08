@@ -1,0 +1,5 @@
+package v1
+
+func LogInfo_v1(message string) {
+	log.Printf("v1 INFO - %v", message)
+}
