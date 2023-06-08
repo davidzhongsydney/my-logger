@@ -1,4 +1,6 @@
-package v1
+package mylogger
+
+import "log"
 
 type Log_v1 struct {
 }
